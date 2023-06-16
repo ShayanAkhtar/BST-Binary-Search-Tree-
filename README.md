@@ -1,5 +1,3 @@
-The code you provided appears to be an implementation of a binary search tree (BST) in C++. Here's a basic README file content for the BST program:
-
 # Binary Search Tree (BST) Implementation
 
 This repository contains a C++ program that implements a Binary Search Tree (BST) data structure. The program allows users to perform various operations on the BST, including insertion, deletion, searching for a value, finding the maximum and minimum values, and displaying the tree in different traversal orders (pre-order, in-order, post-order).
